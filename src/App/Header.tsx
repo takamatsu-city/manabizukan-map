@@ -6,7 +6,7 @@ export default function Header() {
 
   return (
     <header>
-      <div className="header-title">たかまつイベントマップ</div>
+      <div className="header-title">たかまつ学び図鑑マップ</div>
       <div className="hamburger-menu">
         <input type="checkbox" id="menu-btn-check" />
         <label htmlFor="menu-btn-check" className="menu-btn"><span></span></label>
