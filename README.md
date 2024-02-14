@@ -1,4 +1,4 @@
-# manabizukan-map
+# たかまつ学び図鑑マップ
 
 https://manabizukan-map.takamatsu-fact.com/
 
